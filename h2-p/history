@@ -1,0 +1,500 @@
+   27  vim matrix_binary_writer(2).cpp 
+   28  vim matrix_binary_writer\(2\).cpp 
+   29  gcc matrix_binary_writer.cpp 
+   30  gcc matrix_binary_writer\(2\).cpp 
+   31  ./a.out 
+   32  vim matrix.dat 
+   33  cat matrix.dat
+   34  ./a.out 
+   35  cat matrix.dat
+   36  vim matrix_binary_writer\(2\).cpp 
+   37  vim matrix.dat
+   38  gcc matrix_binary_writer\(2\).cpp 
+   39  ./a.out 
+   40  cat matrix.dat 
+   41  vim matrix_binary_writer\(2\).cpp 
+   42  gcc matrix_binary_writer\(2\).cpp 
+   43  vim matrix_binary_writer\(2\).cpp 
+   44  gcc matrix_binary_writer\(2\).cpp 
+   45  vim matrix_binary_writer\(2\).cpp 
+   46  clear
+   47  vim matrix_binary_writer.cpp 
+   48  gcc matrix_binary_writer.cpp 
+   49  vim matrix_binary_writer.cpp 
+   50  gcc matrix_binary_writer.cpp 
+   51  gcc matrix_binary_writer.cpp 
+   52  vim matrix_binary_writer.cpp 
+   53  vim matrix_binary_writer\(2\).cpp 
+   54  vim matrix_binary_writer.cpp 
+   55  vim matrix_binary_writer\(2\).cpp 
+   56  vim matrix_binary_writer.cpp 
+   57  gcc matrix_binary_writer.cpp 
+   58  vim matrix_binary_writer.cpp 
+   59  vim matrix_binary_writer.cpp 
+   60  gcc matrix_binary_writer.cpp 
+   61  vim matrix_binary_writer.cpp 
+   62  gcc matrix_binary_writer.cpp 
+   63  vim matrix_binary_writer\(2\).cpp 
+   64  gcc matrix_binary_writer\(2\).cpp 
+   65  vim matrix_binary_writer\(2\).cpp 
+   66  gcc matrix_binary_writer\(2\).cpp 
+   67  vim matrix_binary_writer\(2\).cpp 
+   68  gcc matrix_binary_writer\(2\).cpp 
+   69  vim matrix_binary_writer\(2\).cpp 
+   70  history
+   71  ls -l
+   72  python main.py 
+   73  vim main.py 
+   74  python main.py 
+   75  vim main.py 
+   76  python main.py 
+   77  vim main.py 
+   78  vim main.py 
+   79  python main.py 
+   80  vim main.py 
+   81  python main.py 
+   82  vim main.py 
+   83  python main.py 
+   84  vim main.py 
+   85  vim main.py 
+   86  python main.py 
+   87  vim main.py 
+   88  python main.py 
+   89  vim main.py 
+   90  python main.py 
+   91  python main.py 
+   92  python main.py 
+   93  python main.py 
+   94  python main.py 
+   95  python main.py 
+   96  python main.py 
+   97  ls -l
+   98  jupyter notebook
+   99  python main.py 
+  100  python main.py 
+  101  history
+  102  history
+  103  python main.py 
+  104  python
+  105  ls -l
+  106  jupyter notebook
+  107  ls -l
+  108  pwd
+  109  cd ..
+  110  cd..
+  111  ls -l
+  112  cd ..
+  113  ls -l
+  114  cd ..
+  115  ls -l
+  116  cd deeplearning/
+  117  ls -l
+  118  cd RNNs/
+  119  ls
+  120  jupyter notebook
+  121  ls -l
+  122  cd ..
+  123  ls
+  124  cd ..
+  125  cd Projects/VanGogh/
+  126  vim mai
+  127  cd neuralart_tensorflow/
+  128  vim main.py 
+  129  python
+  130  vim main.py 
+  131  vim main.py 
+  132  vim main.py 
+  133  vim main.py 
+  134  vim main.py 
+  135  vim main.py 
+  136  vim main.py 
+  137  vim main.py 
+  138  vim main.py 
+  139  vim main.py 
+  140  vim main.py 
+  141  vim main.py 
+  142  vim main.py 
+  143  python main.py 
+  144  vim main.py 
+  145  ssh wuhao@dhcp-c101a5c6.ucd.ie
+  146  ssh wuhao@dhcp-c101a5c6.ucd.ie
+  147  vim main.py 
+  148  vim main.py 
+  149  python main.py 
+  150  vim main.py 
+  151  python main.py 
+  152  vim main.py 
+  153  python main.py 
+  154  vim main.py 
+  155  python main.py 
+  156  vim main.py 
+  157  python main.py 
+  158  vim main.py 
+  159  vim main.py 
+  160  vim main.py 
+  161  python main.py 
+  162  vim main.py 
+  163  python main.py 
+  164  python main.py 
+  165  vim main.py 
+  166  python main.py 
+  167  vim main.py 
+  168  python main.py 
+  169  cd ~/Desktop/blog/
+  170  ls
+  171  ssh -i "GraphPatternMatching.pem" root@ec2-54-217-197-4.eu-west-1.compute.amazonaws.com
+  172  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-217-197-4.eu-west-1.compute.amazonaws.com
+  173  chmod 400 GraphPatternMatching.pem
+  174  chmod 400 GraphPatternMatching.pem
+  175  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-217-197-4.eu-west-1.compute.amazonaws.com
+  176  scp -i "GraphPatternMatching.pem" eng.tar.gz ubuntu@54.155.191.173:/home/ubuntu/download/GroundedTranslation-master/data
+  177  scp -i "GraphPatternMatching.pem" ger.tar.gz ubuntu@54.155.191.173:/home/ubuntu/download/GroundedTranslation-master/data/ger
+  178  pwd
+  179  ssh -i "GraphPatternMatching.pem" root@ec2-54-78-250-26.eu-west-1.compute.amazonaws.com
+  180  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-78-250-26.eu-west-1.compute.amazonaws.com
+  181  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  182  ssh -i "GraphPatternMatching.pem" ubunt@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  183  pwd
+  184  ssh -i "GraphPatternMatching.pem" ubunt@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  185  ssh -i "GraphPatternMatching.pem" ubunt@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  186  ls
+  187  lsssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  188  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  189  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  190  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  191  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  192  ssh -i "GraphPatternMatching.pem" root@ec2-54-170-184-72.eu-west-1.compute.amazonaws.com
+  193  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-170-184-72.eu-west-1.compute.amazonaws.com
+  194  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  195  cp ~/Downloads/GraphPatternMatching.pem ~/Desktop/blog/
+  196  cd ~/Desktop/blog/
+  197  ls -l
+  198  sudo vim ~/.bash_profile 
+  199  ssh -i "GraphPatternMatching.pem" root@ec2-54-217-146-208.eu-west-1.compute.amazonaws.com
+  200  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-217-146-208.eu-west-1.compute.amazonaws.com
+  201  cd ~/Documents/DITstudy/Coursera/PGMs/Codes/
+  202  jupyter notebook
+  203  pwd
+  204  ls
+  205  ls
+  206  pwd
+  207  cd ..
+  208  ls
+  209  cd ..
+  210  ls 
+  211  pwd
+  212  mkdir DLforNLP
+  213  cd DLforNLP/
+  214  mkdir Lect2
+  215  cd Lect2/
+  216  ls -l
+  217  juypter notebook
+  218  jupyter notebook
+  219  python
+  220  ls
+  221  clear
+  222  ls -l
+  223  cd ~/Downloads/
+  224  which tensorflow
+  225  pip show tensorflow
+  226  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-140-150.eu-west-1.compute.amazonaws.com
+  227  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-140-150.eu-west-1.compute.amazonaws.com
+  228  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-140-150.eu-west-1.compute.amazonaws.com
+  229  sudo ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-140-150.eu-west-1.compute.amazonaws.com
+  230  pip --version
+  231  python2
+  232  python3
+  233  which python
+  234  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-191-173.eu-west-1.compute.amazonaws.com
+  235  ls
+  236  cd ~/Desktop/blog/
+  237  ssh -i ./id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  238  sudo ssh -i id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  239  vim main.py 
+  240  python main.py 
+  241  vim main.py 
+  242  vim main.py 
+  243  ls
+  244  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  245  pip show wget
+  246  wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  247  curl -O http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  248  ls
+  249  mkdir ec2tools
+  250  unzip ec2-api-tools.zip -d ec2tools/
+  251  cd ec2tools/
+  252  ls
+  253  which java
+  254  $JAVA_HOME/bin/java -version
+  255  $JAVA_HOME/bin/java -version
+  256  export JAVA_HOME=$(/usr/bin/java)
+  257  export JAVA_HOME=$(/usr/bin/java)
+  258  export JAVA_HOME=$(/usr/bin/java)
+  259  which java
+  260  /usr/libexec/java_home
+  261  /usr/libexec/java_home
+  262  /usr/libexec/java_home --request
+  263  /usr/libexec/java_home
+  264  /usr/libexec/java_home
+  265  ls
+  266  export EC2_HOME=~/Desktop/blog/ec2tools/ec2-api-tools-1.7.5.1
+  267  export PATH=$PATH:$EC2_HOME/bin
+  268  sudo ssh -i ./id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  269  aws ec2 get-console-output --instance-idi-9bd97417
+  270  ec2-get-console-output
+  271  wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  272  pip install wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  273  sudo pip install wget
+  274  wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  275  pip show wget
+  276  sudo wget http://s3.amazonaws.com/ec2-downloads/ec2-api-tools.zip
+  277  ssh -i GraphPatternMatching.pem ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  278  sudo ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  279  ssh -i "GraphPatternMatching.pem" root@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  280  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  281  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  282  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  283  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  284  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  285  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  286  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  287  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  288  cd ~
+  289  cd dow
+  290  ls
+  291  cd Downloads/
+  292  cd crfasrnn-master.zip 
+  293  ls -lt
+  294  cd ..
+  295  cd download
+  296  ls
+  297  pwd
+  298  cd ~/Desktop/blog/
+  299  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  300  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-103-63.eu-west-1.compute.amazonaws.com
+  301  scp -i "graph_pattern_matching.pem" root@52.19.57.212:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.pngwfwe
+  302  sudo scp -i "graph_pattern_matching.pem" root@52.19.57.212:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  303  sudo scp -i "graph_pattern_matching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  304  sudo scp -i "graph_pattern_matching.pem" root@54.216.141.164:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  305  sudo scp -i "graph_pattern_matching.pem" ubuntu@54.216.141.164:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  306  scp -i "graph_pattern_matching.pem" ubuntu@54.216.141.164:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  307  ls
+  308  scp -i GraphPatternMatching.pem ubuntu@54.216.141.164:/home/ubuntu/download/crfasrnn-master/python-scripts/output.png output.png
+  309  scp -i GraphPatternMatching.pem flickr30k-images.tar ubuntu@54.216.141.164:/home/ubuntu/download/flickr30k-images.tar
+  310  scp -i GraphPatternMatching.pem flickr30k-images.tar ubuntu@54.75.36.127:/home/ubuntu/download/flickr30k-images.tar
+  311  ssh -i "GraphPatternMatching.pem" root@ec2-54-155-191-173.eu-west-1.compute.amazonaws.com
+  312  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-191-173.eu-west-1.compute.amazonaws.com
+  313  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-191-173.eu-west-1.compute.amazonaws.com
+  314  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-191-173.eu-west-1.compute.amazonaws.com
+  315  ssh -i "GraphPatternMatching.pem" root@ec2-54-78-218-101.eu-west-1.compute.amazonaws.com
+  316  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-78-218-101.eu-west-1.compute.amazonaws.com
+  317  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-228-146-41.eu-west-1.compute.amazonaws.com
+  318  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-125-86.eu-west-1.compute.amazonaws.com
+  319  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-125-86.eu-west-1.compute.amazonaws.comjoo
+  320  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-78-188-0.eu-west-1.compute.amazonaws.com
+  321  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  322  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  323  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  324  ssh -i "GraphPatternMatching.pem" root@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  325  ssh -i "GraphPatternMatching.pem" root@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  326  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  327  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  328  rsync -auv GroundedTranslation-master.zip 15ITA205@login-t2.g.gsic.titech.ac.jp:~/download
+  329  rsync -auv eng.tar.gz 15ITA205@login-t2.g.gsic.titech.ac.jp:~/download
+  330  rsync -auv ger.tar.gz 15ITA205@login-t2.g.gsic.titech.ac.jp:~/download
+  331  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-75-36-127.eu-west-1.compute.amazonaws.com
+  332  scp -i GraphPatternMatching.pem ubuntu@54.75.36.127:/home/ubuntu/download/GroundedTranslation-master/checkpoints/* checkpoint/
+  333  scp -i GraphPatternMatching.pem ubuntu@54.75.36.127:/home/ubuntu/download/GroundedTranslation-master/checkpoints checkpoint
+  334  scp -i GraphPatternMatching.pem ubuntu@54.75.36.127:/home/ubuntu/download/GroundedTranslation-master/checkpoints/checkpoints.zip checkpoint/checkpoints.zip
+  335  ls -l
+  336  cd checkpoint/
+  337  ls
+  338  cd 0419/
+  339  ls -l
+  340  zip -r 0419_baseline.zip Report/
+  341  ls
+  342  cd ..
+  343  pwd
+  344  history
+  345  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-10-106-139-109.eu-west-1.compute.amazonaws.com
+  346  ssh -i "GraphPatternMatching.pem" root@ec2-54-195-178-67.eu-west-1.compute.amazonaws.com
+  347  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-195-178-67.eu-west-1.compute.amazonaws.com
+  348  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-195-178-67.eu-west-1.compute.amazonaws.com
+  349  history
+  350  497  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-10-106-139-109.eu-west-1.compute.amazonaws.com
+  351   ssh -i "GraphPatternMatching.pem" ubuntu@ec2-10-106-139-109.eu-west-1.compute.amazonaws.com
+  352  ssh -i "GraphPatternMatching.pem" root@ec2-54-75-69-83.eu-west-1.compute.amazonaws.com
+  353  pwd
+  354  cp ~/Downloads/cifar-10-binary.tar.gz cifar-10-binary.tar.gz
+  355  ls
+  356  rsync -auv cifar-10-binary.tar.gz 15ITA205@login-t2.g.gsic.titech.ac.jp:/work1/t2gcresteu/irene
+  357  rsync -auv cifar-10-binary.tar.gz 15ITA205@login-t2.g.gsic.titech.ac.jp:/work1/t2gcresteu/irene
+  358  ssh -i "GraphPatternMatching.pem" root@ec2-54-170-223-75.eu-west-1.compute.amazonaws.com
+  359  ssh -i "GraphPatternMatching.pem" root@ec2-54-170-223-75.eu-west-1.compute.amazonaws.com
+  360  ls -l
+  361  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-170-223-75.eu-west-1.compute.amazonaws.com
+  362  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  363  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  364  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  365  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  366  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  367  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  368  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  369  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  370  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  371  rsync -auv ger.tar.gz 15ITA205@login-t2.g.gsic.titech.ac.jp:~/download
+  372  ssh -i "GraphPatternMatching.pem" root@ec2-54-216-141-164.eu-west-1.compute.amazonaws.com
+  373  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-217-2-9.eu-west-1.compute.amazonaws.com
+  374  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-223-75.eu-west-1.compute.amazonaws.com
+  375  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-223-75.eu-west-1.compute.amazonaws.com
+  376  ssh -i ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  377  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-155-100-204.eu-west-1.compute.amazonaws.com
+  378  python3
+  379  ls -l
+  380  cd Documents/DITstudy/Coursera/DLforNLP/assignment1
+  381  ls -l
+  382  jupyter notebook
+  383  cd ~/Desktop/blog
+  384  ls -l
+  385  ssh -i id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  386  sudo ssh -i id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  387  sudo ssh -i ./id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  388  ls -l
+  389  sudo ssh -i ~/Downloads/id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  390  sudo ssh -i ~/Downloads/id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  391  sudo ssh -i ~/Downloads/id_rsa 15ITA205@login-t2.g.gsic.titech.ac.jp
+  392  cd ~/Downloads/
+  393  ls
+  394  rm tensorflow*
+  395  tar sample.tar 
+  396  tar -tf sample.tar 
+  397  ls
+  398  cd ~/Desktop/blog/
+  399  ls-l
+  400  ls -l
+  401  cd Alex
+  402  ls
+  403  cat main.py 
+  404  vim test.py 
+  405  vim test.py 
+  406  vim main.py 
+  407  cd ~/Desktop/blog/
+  408  ls -l
+  409  ssh -i "GraphPatternMatching.pem" root@ec2-54-75-27-190.eu-west-1.compute.amazonaws.com
+  410  ssh -i "GraphPatternMatching.pem" ubuntu@ec2-54-75-27-190.eu-west-1.compute.amazonaws.com
+  411  scp -i GraphPatternMatching.pem Alex.zip ubuntu@54.75.27.190:/home/ubuntu/download/crfasrnn-master/python-scripts
+  412  ls -l
+  413  cd ..
+  414  ls -l
+  415  cd ..
+  416  ls -l
+  417  cd 
+  418  ls -l
+  419  cd ~/Documents/DITstudy/
+  420  ls -l
+  421  cd Projects/
+  422  ls -l
+  423  git clone git@github.com:alexjc/neural-doodle.git
+  424  ls -l
+  425  sudo git clone git@github.com:alexjc/neural-doodle.git
+  426  mv ~/Downloads/neural-doodle-mast.zip 
+  427  mv ~/Downloads/neural-doodle-mast.zip /
+  428  mv ~/Downloads/neural-doodle-mast.zip neural-doodle.zip
+  429  unzip neural-doodle.zip 
+  430  ls -l
+  431  rm neural-doodle.zip 
+  432  cd neural-doodle-master/
+  433  ls -l
+  434  pip3 install scikit-image
+  435  pip3 install theano
+  436  pip3 show matplotlib
+  437  python3 doodle.py --style samples/Monet.jpg --output samples/Coastline.png                   --device=cpu --iterations=40
+  438  pip3 install lasagne
+  439  python3 doodle.py --style samples/Monet.jpg --output samples/Coastline.png                   --device=cpu --iterations=40
+  440  vim doodle.py 
+  441  python3 doodle.py --style samples/Monet.jpg --output samples/Coastline.png  --device=cpu --iterations=40
+  442  wget https://github.com/alexjc/neural-doodle/releases/download/v0.0/vgg19_conv.pkl.bz2
+  443  python3 doodle.py --style samples/Monet.jpg --output samples/Coastline.png  --device=cpu --iterations=40
+  444  ls -l
+  445  ls -l
+  446  head -n 30 gene.train.replaced.classified 
+  447  head -n 300 gene.train.replaced.classified 
+  448  wc -l gene.train.replaced.classified 
+  449  wc -l gene.train.replaced
+  450  wc -l gene.train
+  451  cp ~/Downloads/sample.tar sample.tar
+  452  rm ~/Downloads/sample.tar 
+  453  ls -l
+  454  cd save_res_img/
+  455  vim woeifnew.jpg
+  456  cd ..
+  457  ls -l
+  458  ls -l
+  459  mv save_res_img/
+  460  mv -rf save_res_img/
+  461  mv -rf save_res_img
+  462  rm -rf save_res_img/
+  463  vim ~/Downloads/main.py 
+  464  vim ~/Downloads/main.py 
+  465  scp -i GraphPatternMatching.pem ubuntu@54.170.129.199
+  466  scp -i GraphPatternMatching.pem ubuntu@54.170.129.199:/home/ubuntu/download/crfasrnn-master/python-scripts/results0429.zip results0429.zip
+  467  ls -l
+  468  scp -i GraphPatternMatching.pem ubuntu@54.170.129.199:/home/ubuntu/download/crfasrnn-master/python-scripts/main_point.py main_point.py
+  469  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-129-199.eu-west-1.compute.amazonaws.com
+  470  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-129-199.eu-west-1.compute.amazonaws.com
+  471  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-129-199.eu-west-1.compute.amazonaws.com
+  472  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-129-199.eu-west-1.compute.amazonaws.com
+  473  ssh -i GraphPatternMatching.pem ubuntu@ec2-54-170-129-199.eu-west-1.compute.amazonaws.com
+  474  jupyter notebook
+  475  ls -l
+  476  head -n 30 gene.dev
+  477  head -n 30 gene.key
+  478  head -n 100 gene.key
+  479  head -n 300 gene.key
+  480  head -n 300 gene.key
+  481  head -n 300 gene.dev
+  482  python
+  483  head -n 300 gene.counts
+  484  head -n gene.counts
+  485  cat gene.counts
+  486  cd ~/Documents/DITstudy/deeplearning/RNNs/
+  487  ls
+  488  jupyther notebook
+  489  jupyter notebook
+  490  java
+  491  java
+  492  java
+  493  ls
+  494  head -n 100 text8
+  495  head -n 1 text8
+  496  head -n 1 text8 >> txt
+  497  ls
+  498  ls -l
+  499  jupyter notebook
+  500  cp ~/Downloads/h2.2.zip ~/Documents/DITstudy/Coursera/NLP/h2.2.zip
+  501  rm ~/Downloads/h2.2*
+  502  cd ~/Documents/DITstudy/Coursera/NLP/
+  503  ls
+  504  unzip h2.2.zip 
+  505  ls
+  506  mkdir h2-p
+  507  cp assignment/* h2-p/
+  508  cd h2-p/
+  509  ls
+  510  rm -rf../assignment
+  511  rm -rf ../assignment
+  512  ls ../
+  513  ls
+  514  head -n 3 parse_dev.dat 
+  515  head -n 3 parse_dev.key 
+  516  cat tree.example 
+  517  pip3 install json
+  518  sudo pip3 install json
+  519  python
+  520  python count_cfg_freq.py parse_train.dat > cfg.counts
+  521  python2
+  522  activate snakes
+  523  anoda
+  524  aconda
+  525  history
+  526  history > history
